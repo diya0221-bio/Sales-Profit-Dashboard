@@ -1,11 +1,11 @@
 Sales & Profit Dashboard (Excel Data Analysis Project)
 
-Project Overview
+Project Overview:
 
 This project is an Excel-based Sales & Profit Dashboard designed to analyze business performance across multiple dimensions such as sales, profit, customers, categories, states, and time.
 The goal of this project is to demonstrate my data analysis, data visualization, and dashboard creation skills using Microsoft Excel.
 
-Objectives
+Objectives:
 
 Analyze overall sales and profit performance
 
@@ -15,7 +15,7 @@ Track monthly and yearly trends
 
 Create an interactive dashboard for quick business insights
 
-Tools Used
+Tools Used:
 
 Microsoft Excel
 
@@ -29,7 +29,7 @@ Data Cleaning & Formatting
 
 Dashboard Design
 
-Dashboard Insights
+Dashboard Insights:
 
 The dashboard provides insights into:
 
@@ -50,7 +50,7 @@ Top 5 Customers by Profit
 Monthly Sales Trend
 
 
-Key Skills Demonstrated
+Key Skills Demonstrated:
 
 Data cleaning and structuring
 
