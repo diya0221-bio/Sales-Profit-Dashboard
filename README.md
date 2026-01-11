@@ -6,58 +6,49 @@ This project is an Excel-based Sales & Profit Dashboard designed to analyze busi
 The goal of this project is to demonstrate my data analysis, data visualization, and dashboard creation skills using Microsoft Excel.
 
 
-
 Objectives:
 
-   Analyze overall sales and profit performance
+Analyze overall sales and profit performance
 
-   Identify top-performing categories, states, and customers
+Identify top-performing categories, states, and customers
 
-   Track monthly and yearly trends
+Track monthly and yearly trends
 
-   Create an interactive dashboard for quick business insights.
-
-
+Create an interactive dashboard for quick business insights.
 
 Tools Used:
 
-  Microsoft Excel
+Microsoft Excel
 
-  Pivot Tables
+Pivot Tables
 
-  Pivot Charts
+Pivot Charts
 
-  Slicers (Category, Year, Month)
+Slicers (Category, Year, Month)
 
-  Data Cleaning & Formatting
+Data Cleaning & Formatting
 
-  Dashboard Design
-
-
-
+Dashboard Design
 
 Dashboard Insights:
 
-  The dashboard provides insights into:
+The dashboard provides insights into:
 
-  Total Sales: $1,928,888
+Total Sales: $1,928,888
 
-  Total Profit: $247,961
+Total Profit: $247,961
 
-  Profit by Year (Furniture, Office Supplies, Technology)
+Profit by Year (Furniture, Office Supplies, Technology)
 
-  Customer Count by Year
+Customer Count by Year
 
-  Sales by State (Geographical view)
+Sales by State (Geographical view)
 
-  Sales by Category
+Sales by Category
 
-  Top 5 Customers by Profit
+Top 5 Customers by Profit
 
-  Monthly Sales Trend
-
-
-
+Monthly Sales Trend
 
 Key Skills Demonstrated:
 
@@ -72,3 +63,4 @@ Data visualization & storytelling
 Dashboard design in Excel
 
 Attention to KPIs and metrics
+
